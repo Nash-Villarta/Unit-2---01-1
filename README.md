@@ -1,9 +1,6 @@
 .github/workflows/linter.yaml
-###############################################
 
 # Run GitHub's Super Linter against code base #
-
-###############################################
 
 
 
