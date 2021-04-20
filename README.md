@@ -4,7 +4,7 @@
 # Run GitHub's Super Linter against code base #
 
 ###############################################
-
+ [![linter](https://github.com/<Nash-Villarta>/<Unit-2---01-1>/workflows/linter/badge.svg)](https://github.com/marketplace/actions/super-linter)   
 
 
 name: linter
